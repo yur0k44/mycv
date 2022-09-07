@@ -1,5 +1,5 @@
 ------
-[RS-shool](https://github.com/yur0k44/rsschool-cv/edit/gh-pages/cv.md "УРА")
+[RS-school](https://github.com/yur0k44/rsschool-cv/edit/gh-pages/cv.md "УРА")
 ------
 # _Hukau Yury_
 
@@ -17,7 +17,7 @@
 ## About Me
 
 
-I'm a beginner front end developer, I want to learn how to work in a team. Started learning html css and javascript.
+I'm a beginner front-end developer, I want to learn how to work in a team. Started learning html css and javascript.
 ## Skills and Proficiency:
 * HTML
 * CSS/SASS
